@@ -12,4 +12,4 @@ FabLab enables anyone at any age, to experiment in turning ideas to tangible rea
 
 Fab-Lab is looking for “makers” – for whom “do-it-yourself” is a motto: from curious children who take things apart only to put them back together; hobbyists who love robots, model airplanes, model building, photography and more; professionals who love to do-it-themselves; artists; innovators in spirit and in occupation and any other individuals, young and old, who would like to “make” and would like to share from their experiences.
 
-Whether conceptual artists or “technology geeks”, school age children or university students, young or old, men or women – the Wanger Family Fab-Lab is available for anyone who has the passion to “make”.
+Whether conceptual artists or “technology geeks”, school age children or university students, young or old, men or women – the Wanger Family Fab-Lab is available for anyone who has the passion to make.
