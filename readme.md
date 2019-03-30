@@ -9,9 +9,9 @@ Mr. Fransicso started the training session, the participants were informed about
 We visited the FAB Lab established at STPI Bhubaneswar. All the equipments installed were demonstrated and working of the equipments were briefed.
 
 ## Equipments list is as follows:-
-1. [Vinyl Cutter](https://github.com/shashikantstpi/fabzero/blob/master/equipments/vinyl%20cutter.md)
-2. [3-D Printer](https://github.com/shashikantstpi/fabzero/blob/master/equipments/3-d-printer.md)
-3. [Stereo Lithography Printer](https://github.com/shashikantstpi/fabzero/blob/master/equipments/stereolithographyprinter.md)
+1. [Vinyl Cutter](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/vinyl%20cutter.md)
+2. [3-D Printer](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/3-d-printer.md)
+3. [Stereo Lithography Printer](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/stereolithographyprinter.md)
 4. Band Saw 
 5. Scroll Saw Cutter
 6. Laser Cutter
@@ -20,5 +20,5 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 9. Electronics for testing the devices (oscilloscope, pulse generator etc.)
 
 ## About Fablab & Tutorial
-1. [About Fablab](https://github.com/shashikantstpi/fabzero/blob/master/about.md)
-2. [How to use Github Repository](https://github.com/shashikantstpi/fabzero/blob/master/gitrepo.md)
+1. [About Fablab](https://github.com/gauravstpi/gauravstpi/blob/master/about.md)
+2. [How to use Github Repository](https://github.com/gauravstpi/gauravstpi/blob/master/gitrepo.md)
