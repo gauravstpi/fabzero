@@ -12,13 +12,19 @@ We visited the FAB Lab established at STPI Bhubaneswar. All the equipments insta
 1. [Vinyl Cutter](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/vinyl%20cutter.md)
 2. [3-D Printer](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/3-d-printer.md)
 3. [Stereo Lithography Printer](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/stereolithographyprinter.md)
-4. Band Saw 
-5. Scroll Saw Cutter
-6. Laser Cutter
-7. Stereo Lithography Printer
-8. CNC Machine (Computer Numerical Control)
-9. Electronics for testing the devices (oscilloscope, pulse generator etc.)
+4. [CNC Machine (Computer Numerical Control)](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/cncmachine.md)
+5. [Band Saw](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/bandshow.md)
+7. [3D Scanner](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/3dscanner.md)
+6. [Scroll Saw Cutter](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/scrollsaw.md)
+7. Laser Cutter
+8. [Electronics for testing the devices (Oscilloscope, Function generator, etc.)](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/electronicsdevice.md)
+
+## Softwares
+1. [Kicad for circuit design](https://github.com/gauravstpi/gauravstpi/blob/master/software/cktdesign.md)
+2. [FreeCAD](https://github.com/gauravstpi/gauravstpi/blob/master/software/freecad.md)
 
 ## About Fablab & Tutorial
 1. [About Fablab](https://github.com/gauravstpi/gauravstpi/blob/master/about.md)
 2. [How to use Github Repository](https://github.com/gauravstpi/gauravstpi/blob/master/gitrepo.md)
+
+## Final Project (Automatic street light controller)
