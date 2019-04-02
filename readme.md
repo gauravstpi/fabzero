@@ -2,11 +2,11 @@
 
 Trainers for the FAB LAB Mr. Fransicso and Mr. Shibu.
 
-Dr. Omkar Rai (Director General- STPI) motivated the participants of the STPI to give the best during the training for FAB Labs to be executed across the country in future.
+Dr. Omkar Rai (Director General-STPI) motivated the participants of the STPI to give the best during the training for FAB Labs to be executed across the country in future.
 
 Mr. Fransicso started the training session, the participants were informed about the objectives of the training and the basic knowledge of FAB Labs. The safety associated with FAB Lab along with the do's and dont's were also informed to the trainees.
 
-We visited the FAB Lab established at STPI Bhubaneswar, All the equipments installed were demonstrated and working of the equipments were briefed.
+We visited the FAB Lab established at STPI Bhubaneswar. All the equipments installed were demonstrated and working of the equipments were briefed.
 
 ## Equipments list is as follows:-
 1. [Vinyl Cutter](https://github.com/gauravstpi/gauravstpi/blob/master/equipments/vinyl%20cutter.md)
